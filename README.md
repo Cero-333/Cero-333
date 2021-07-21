@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ceren
-- 👀 I’m interested in coding, maths, drawing and theatre.
+- 👀 I’m interested in coding, maths, table tennis and theatre.
 - 🌱 I’m currently learning about Machine Learning.
 - 💞️ I’m looking to collaborate on projects which are mainly about website development with Flask/Node-React, web scraping, GUI creation, creating RESTful APIs and using them. In addition to that, data exploration and visualisation projects will challenge me in a good way :) 
 - 📫 You can reach me via email: ceren.sahin04@gmail.com I am an enthusiastic learner so any project idea to collaborate on would make me a better programmer.
